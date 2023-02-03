@@ -4,3 +4,6 @@ mumbai
 chennai
 bengaluru
 delhi
+razole
+kakinada
+hyd
